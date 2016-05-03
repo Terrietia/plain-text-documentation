@@ -1,12 +1,15 @@
-# Stuff I know about X from Y
-# link of Y
-# and Z
-# link of Z
+# Stuff I know about additive manufacturing from wikipedia
+# https://en.wikipedia.org/wiki/3D_printing
+# and 3dprintingindustry
+# http://3dprintingindustry.com/3d-printing-basics-free-beginners-guide/history/
+# and machinedesign
+# http://machinedesign.com/blog/mass-production-3d-printing
 
 prewriting
-1
-2
-3
-4
-5
-Done
+Started as stereolithography apparatus, using digital data to make 3d parts
+3d printing makes parts layer by layer
+use CAD to model and simulate objects
+3d printing can make just about anything, just restricted by size
+very versatile
+still kind of slow, max 450mm/sec
+can make a bunch of parts to make a bigger part
